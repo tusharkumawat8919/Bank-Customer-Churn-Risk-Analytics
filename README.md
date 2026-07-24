@@ -8,7 +8,7 @@ An end-to-end data analytics project focused on identifying high-risk bank custo
 * **Power BI:** Interactive Corporate Executive Dashboard
 
 ## 📊 Business Dashboard
-![Dashboard Screenshot](Screenshot (199).png)
+[Dashboard Screenshot](Screenshot (199).png)
 
 ## 💡 Key Business Insights Discovered
 1. **The Big Driver (Age):** Machine learning feature importance and age-binning analysis revealed that customers aged **41-50 and 51-60** have the highest churn rate (30%-35%).
