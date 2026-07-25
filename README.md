@@ -8,7 +8,7 @@ An end-to-end data analytics project focused on identifying high-risk bank custo
 * **Power BI:** Interactive Corporate Executive Dashboard
 
 ## 📊 Business Dashboard
-![Dashboard Screenshot](Screenshot%20%28199%29.png)
+[![Dashboard Screenshot](Screenshot%20%28199%29.png)](https://github.com/tusharkumawat8919/Bank-Customer-Churn-Risk-Analytics/blob/main/Screenshot%20(211).png)
 
 ## 💡 Key Business Insights Discovered
 1. **The Big Driver (Age):** Machine learning feature importance and age-binning analysis revealed that customers aged **41-50 and 51-60** have the highest churn rate (30%-35%).
